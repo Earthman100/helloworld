@@ -1,1 +1,1 @@
-[System]_Screen:!0
+[System]_Screen:!0'Run:_https://github.com/lijinsuo/helloworld'
