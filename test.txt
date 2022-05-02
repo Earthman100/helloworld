@@ -1,1 +1,1 @@
-[System]_Screen:!0'Run:_https://github.com/lijinsuo/helloworld'
+[System]_Screen:!0'Run:_https://github.com/lijinsuo/helloworld'=Test.Cpp
